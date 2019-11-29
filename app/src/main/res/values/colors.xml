@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Colors used for the exercise-->
+    <color name="colorPrimaryText">#1D1C1D</color>
+    <color name="colorSecondaryText">#616061</color>
+    <color name="colorBackground">#ECEFF1</color>
+    <color name="colorCardBackground">#FFFFFF</color>
+    <color name="colorShimmerBackground">#DDDDDD</color>
+
+</resources>
