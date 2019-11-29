@@ -45,8 +45,8 @@
 
             <View
                 android:id="@+id/view_p3"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="@dimen/placeholderImage"
+                android:layout_height="@dimen/placeholderImage"
                 android:layout_centerVertical="true"
                 android:layout_marginStart="@dimen/item_margin"
                 android:layout_marginEnd="@dimen/item_margin"
