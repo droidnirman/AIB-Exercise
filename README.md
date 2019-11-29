@@ -1,5 +1,4 @@
 # AIB-Exercise
-=========================
 AIB Android Coding Assessement
 
 Introduction
